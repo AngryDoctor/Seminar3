@@ -86,6 +86,7 @@ Content Cell  | Content Cell
 | Table 1 | Table 2| 
 |:--------|--------|
 |Получилось!       |
+|и тут текст       |
 |                  |
 
 
